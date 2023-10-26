@@ -3,7 +3,7 @@
     "path": "~/Laura/Health data science course/HDS_R_material/Input data/Objects_packages_functions.Rmd",
     "project_path": "Input data/Objects_packages_functions.Rmd",
     "type": "r_markdown",
-    "hash": "1732052510",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1698338129495.0,
@@ -13,15 +13,15 @@
         "source_window_id": "",
         "Source": "Source",
         "last_setup_crc32": "5456ca0abb338d19",
-        "cursorPosition": "30,56",
-        "scrollLine": "23"
+        "cursorPosition": "137,6",
+        "scrollLine": "134"
     },
     "folds": "",
     "lastKnownWriteTime": 1698337230,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698339304193,
+    "last_content_update": 1698341198553,
     "read_only": false,
     "read_only_alternatives": []
 }

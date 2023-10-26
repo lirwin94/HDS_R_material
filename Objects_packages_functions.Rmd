@@ -40,14 +40,6 @@ Tip: use the R studio shortcut Alt+ - (Alt and the minus sign) to easily create 
 y <- 6
 x+y
 ```
-```{r}
-y <- 6
-x <- 3
-x+y
-```
-```{r}
-sqrt (9
-```
 
 
 Tip: R is case sensitive so if you've defined your object as x, it will not recognise (capital) X. 
@@ -120,17 +112,15 @@ To read in a file that is saved in the same directory as the .Rproj file:
 
 ```{r}
 library(here)
- fev_data <- read_csv(here("fev.csv"))
+fev_data <- read_csv(here("fev.csv"))
 ```
 
 (Remember to install the "here" package the first time.)
 
 --> How would you use read_csv with the pipe operator?
-```{r} 
-library(here)
-fev_data
-%>% 
-read_csv("fev.csv")
+
+```{r}
+# Add your code here!
 ```
 
 Look at the top few rows of the data:
