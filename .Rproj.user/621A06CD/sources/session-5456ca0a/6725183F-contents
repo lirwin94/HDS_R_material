@@ -149,17 +149,18 @@ fev_data is a tibble - this is a tidyverse structure similar to a data frame (fr
 Tip: if your data is in a Microsoft Excel spreadsheet, you will need a different package to read it in, such as readxl. So you'll need:
 
 install.packages("readxl")
-
+```{r}
 library(readxl)
 
-excel_data <- read_xlsx(filename, sheet = 1) #(to read the first sheet)
-
+excel_data <- read_xlsx(fev_data, sheet = 1) #(to read the first sheet)
+```
 
 --> How would you read in a text file? (Check the data import cheat sheet!)
 There is a text file in your dataset so you can practice: psa.txt
 
 ```{r}
-# Add your code here!
+library(here)
+ psa<-read_delim("psa.txt",delim="|")
 ```
 
 --> Have a look at the "Useful arguments" section of the data import cheat sheet. 
