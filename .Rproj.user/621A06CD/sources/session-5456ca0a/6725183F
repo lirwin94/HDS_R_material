@@ -3,9 +3,9 @@
     "path": "~/Laura/Health data science course/HDS_R_material/Input data/Objects_packages_functions.Rmd",
     "project_path": "Input data/Objects_packages_functions.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1732052510",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1698338129495.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698338900223,
+    "last_content_update": 1698339227568,
     "read_only": false,
     "read_only_alternatives": []
 }
